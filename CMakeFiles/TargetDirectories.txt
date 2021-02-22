@@ -1,0 +1,3 @@
+/home/himmel/Documents/Opencv/CMakeFiles/rebuild_cache.dir
+/home/himmel/Documents/Opencv/CMakeFiles/Opencv.dir
+/home/himmel/Documents/Opencv/CMakeFiles/edit_cache.dir
